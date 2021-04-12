@@ -1,4 +1,4 @@
-## attachment downloader
+## Attachment downloader
 #### Download attachments from gmail accounts
 
 >**Authors**: Syed Zaid Ahmad
@@ -10,8 +10,8 @@ THE FOLLOWING CODE IS FREE TO DOWNLOAD AND USE FOR COMMERCIAL AND NON COMMERCIAL
 IN CASE OF ANY QUERY FEEL FREE TO ASK.
 
 >**CONTACT NUMBER:**<br>
-            1: +91 8585971473(WHATS APP)<br>
-            2: +91 7570929942 <br>
+            *: +91 8585971473(WHATS APP)<br>
+            *: +91 7570929942 <br>
 >**EMAIL:** syedzaidahmad99@gmail.com
 
 THIS CODE IS WRITTEN IN PYTHON 3.5 ON LINUX PLATFORM
