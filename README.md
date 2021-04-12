@@ -3,11 +3,11 @@
 
 >**Authors**: Syed Zaid Ahmad
 
-THIS CODE IS WRITTEN TO DOWNLOAD ALL ATTACHMENTS AND PLAIN TEXT(BODY) FROM GMAIL OR OTHER EMAIL AND
-SAVE THEM INTO THEIR CORRESPONDING LOCAL FOLDERS(THE FOLDER NAME WILL GET CREATED BY SENDER'S NAME AUTOMATICALLY)<br>
-ANYONE CAN DOWNLOAD IT,MODYFY IT BASED ON THEIR REQUIREMENTS<br>
-THE FOLLOWING CODE IS FREE TO DOWNLOAD AND USE FOR COMMERCIAL AND NON COMMERCIAL PURPOSE 
-IN CASE OF ANY QUERY FEEL FREE TO ASK.
+This code is written to download all attachments and plain text(body) from gmail or other email and
+save them into their corresponding local folders(folder name will get created by sender's name automatically)<br>
+Anyone can download it,modyfy it based on their requirements<br>
+The following code is free to download and use for commercial and non commercial purpose 
+in case of any query feel free to ask.
 
 >**CONTACT NUMBER:**<br>
             1: +91 8585971473(WHATS APP)<br>
