@@ -1,7 +1,7 @@
-## attachment downloader
-Download attachments from gmail accounts
+# attachment downloader
+### Download attachments from gmail accounts
 
-**Authors**: Syed Zaid Ahmad
+>**Authors**: Syed Zaid Ahmad
 
 THIS CODE IS WRITTEN TO DOWNLOAD ALL ATTACHMENTS AND PLAIN TEXT(BODY) FROM GMAIL OR OTHER EMAIL AND
 SAVE THEM INTO THEIR CORRESPONDING LOCAL FOLDERS(THE FOLDER NAME WILL GET CREATED BY SENDER'S EMAIL ADDRESS AUTOMATICALLY)
